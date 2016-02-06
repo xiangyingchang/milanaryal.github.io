@@ -31,7 +31,7 @@ locale:                en_us
 baseurl:               "" # does not include hostname
 
 # URL of site, include http://, do not include a trailing slash
-url:                   http://milanaryal.com
+url:                   http://xiangyingchang.com
 
 # Site settings
 title:                 Milan Aryal
